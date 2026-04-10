@@ -137,7 +137,6 @@ npm run dev
 # For local dev, change the proxy target in vite.config.ts to http://localhost:3000.
 ```
 
-
 # Explanation Section
 
 ## Service Added: pgAdmin at localhost:5050
