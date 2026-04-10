@@ -139,7 +139,9 @@ npm run dev
 
 # Explanation Section
 
-## Service Added: pgAdmin at localhost:5050
+## Service Added
+pgAdmin
 
-## Feature Added: Joke of the Day
+## Feature Added
+### Joke of the Day
   - Adds a tab on the navigation that will give you a different joke every day that won't change (until the date does).
