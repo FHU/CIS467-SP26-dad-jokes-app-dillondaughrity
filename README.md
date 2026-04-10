@@ -141,11 +141,5 @@ npm run dev
 
 ## Service Added: pgAdmin at localhost:5050
 
-### Login:
-  - Email: "admin@example.com"
-  - Password: "admin" (implemented as a secret)
-
-## Feature Added: 
-
-### Joke of the Day:
+## Feature Added: Joke of the Day
   - Adds a tab on the navigation that will give you a different joke every day that won't change (until the date does).
